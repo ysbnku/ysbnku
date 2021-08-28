@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysbnku&label=Profile%20views&color=0e75b6&style=flat" alt="ysbnku" /> </p>
 
-- 🔭 I’m currently working on [Konus](-)
+- 🔭 I’m currently working on [Konus](https://www.nettsi.com/konus/)
 
 - 🤝 I’m looking for help with [Diriliş Postası](https://github.com/DirilisPostasiWordpress)
 
