@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Konus](https://www.nettsi.com/konus/)
 
-- 🤝 I’m looking for help with [Diriliş Postası](https://github.com/DirilisPostasiWordpress)
+- 🤝 I'm helping [Diriliş Postası](https://github.com/DirilisPostasiWordpress)
 
 - 📫 How to reach me **yavuzbitmez.nku@gmail.com**
 
