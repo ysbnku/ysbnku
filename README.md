@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysbnku&label=Profile%20views&color=0e75b6&style=flat" alt="ysbnku" /> </p>
 
-- 🔭 I’m currently working on [Konus](https://www.nettsi.com/konus/)
+- 🔭 I’m currently working on [QNB Finansbank](https://apps.apple.com/tr/app/qnb-finansbank/id739655617?l=tr)
 
 - 🤝 I'm helping [Diriliş Postası](https://github.com/DirilisPostasiWordpress)
 
