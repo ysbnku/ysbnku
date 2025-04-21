@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysbnku&label=Profile%20views&color=0e75b6&style=flat" alt="ysbnku" /> </p>
 
+- 🔭 Co-Founder at [Spyninjacode](https://www.spyninjacode.co)
+
 - 🔭 I’m currently working on [Sisal](https://apps.apple.com/it/app/sisal-scommesse-sportive/id525415975)
 
 - 🤝 I'm helping [Diriliş Postası](https://github.com/DirilisPostasiWordpress)
